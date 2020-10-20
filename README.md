@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/130875569.svg)](https://zenodo.org/badge/latestdoi/130875569)
+
+# saltmarsh-invasion
+
 This repository consists of files and code to analyse the data of the manuscript "Freshwater input drives invasion success of exotic plants in saltmarsh communities" by Geedicke et al, 2020
 
 **Abstract:**  
